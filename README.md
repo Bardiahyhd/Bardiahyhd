@@ -1,6 +1,7 @@
 <pre>
 Hi there! This is my resume if you need to know anything.
-Known Algorithms/Data Structures : 
+
+- Known Algorithms/Data Structures : 
 Segment Tree 
 Fenwick Tree
 Trie Tree 
@@ -27,17 +28,20 @@ Sorting Algorithms
 DSU / MST 
 SCC
 2-Sat
-Known programming Languages : 
+
+- Known programming Languages : 
 C/C++ (Advanced) 
 Python (Intermediate) 
 HTML (Beginner)
-About me : 
+
+- About me : 
 Name : Bardia
 Email : Bardiahyhd@gmail.com
 Piano Player (intermediate)
 Guitar Player (Beginner)
 18 y.o 
-Certificates : 
+
+- Certificates : 
 International Cospace Online [iCool] Challenge @ Virtual Robocup 2020 - Finalist 
 Iran Computer Olampyad (IOI 32 & 33) - Copper Medal
 </pre>
