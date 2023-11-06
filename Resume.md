@@ -1,3 +1,4 @@
+<pre>
 Hi there!
 Known Algorithms/Data Structure : 
 Segment Tree 
@@ -39,3 +40,4 @@ Guitar Player (Beginner)
 Certificates : 
 International Cospace Online [iCool] Challenge @ Virtual Robocup 2020 - Finalist 
 Iran Computer Olampyad (IOI 32 & 33) - Copper Medal
+</pre>
