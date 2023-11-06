@@ -1,6 +1,6 @@
 <pre>
 Hi there! This is my resume if you need to know anything.
-Known Algorithms/Data Structure : 
+Known Algorithms/Data Structures : 
 Segment Tree 
 Fenwick Tree
 Trie Tree 
