@@ -45,5 +45,5 @@ Guitar Player (Beginner)
 International Cospace Online [iCool] Challenge @ Virtual Robocup 2020 - Finalist 
 Iran Open Cospace Rescue Robot 2021 - 4th Place
 Iran Camputer Olampyad (INOI 32) 2022 - Participation Certificate
-Iran Computer Olampyad (INOI 33) 2023 - Copper Medal
+Iran Computer Olampyad (INOI 33) 2023 - Bronze Medal
 </pre>
