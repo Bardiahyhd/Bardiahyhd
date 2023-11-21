@@ -39,7 +39,7 @@ Name : Bardia
 Email : Bardiahyhd@gmail.com
 Piano Player (intermediate)
 Guitar Player (Beginner)
-18 y.o 
+Born in Tehran at Nov/06/2005
 
 - Certificates : 
 International Cospace Online [iCool] Challenge @ Virtual Robocup 2020 - Finalist 
