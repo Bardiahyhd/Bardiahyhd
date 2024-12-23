@@ -1,7 +1,7 @@
 <pre>
 Hi there! This is my resume if you need to know anything.
 
-- Known Algorithms/Data Structures : 
+- Algorithms/Data Structures that i know : 
 Segment Tree 
 Fenwick Tree
 Trie Tree 
@@ -40,6 +40,9 @@ Email : Bardiahyhd@gmail.com
 Piano Player (intermediate)
 Guitar Player (Beginner)
 Born in Tehran at Nov/06/2005
+Intermediate photographer
+Intermediate Studio Videographer
+Intermediate video/photo editor
 
 - Certificates : 
 International Cospace Online [iCool] Challenge @ Virtual Robocup 2020 - Finalist 
