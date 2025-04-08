@@ -33,7 +33,6 @@ SCC
 C/C++ (Advanced) 
 Java (Intermediate)
 Python (Intermediate) 
-HTML (Beginner)
 
 - About me : 
 Name : Bardia
