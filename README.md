@@ -5,7 +5,7 @@ Hi there! This is my resume if you need to know anything.
 Segment Tree 
 Fenwick Tree
 Trie Tree 
-Dynamic proggramming 
+Dynamic programming 
 LCS / LIS / Knapsack
 Bellman Ford
 Floyd Warshall
