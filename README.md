@@ -31,6 +31,7 @@ SCC
 
 - Known programming Languages : 
 C/C++ (Advanced) 
+Java (Intermediate)
 Python (Intermediate) 
 HTML (Beginner)
 
