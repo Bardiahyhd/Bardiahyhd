@@ -19,7 +19,7 @@ Intermediate video/photo editor
 - Certificates : 
 International Cospace Online [iCool] Challenge @ Virtual Robocup 2020 Certificate - Finalist 
 Iran Open Cospace Rescue Robot 2021 Certificate - 4th Place
-Iran Camputer Olympiad (INOI 32) 2022 - Participation Certificate (Dude don't judge me i was sick)
+Iran Camputer Olympiad (INOI 32) 2022 - Participation Certificate
 Iran Computer Olympiad (INOI 33) 2023 - Bronze Medal
 
 - Algorithms/Data Structures that i know : 
